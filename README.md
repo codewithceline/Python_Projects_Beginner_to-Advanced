@@ -3,8 +3,11 @@
 BEGINNER PYTHON PROJECTS
 
 Multiple Python Projects
+
 Variables in Python
+
 String Manipulation
+
 Input and Print Functions
 Variable Naming Rules
 Mathematical Operations in Python
